@@ -1,0 +1,6 @@
+{
+  "name": "Gantavya AI",
+  "description": "A premium, Apple-inspired real-time GPS speed tracker and driving safety assistant with glassmorphism, offline map, safety alerts, and trip logging.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
